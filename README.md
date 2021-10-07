@@ -1,1 +1,3 @@
-# Git Flow sample
+# Git Flow sample 
+
+Full lifecycle
